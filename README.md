@@ -1,24 +1,5 @@
-# vue-electron
+# sexphoto-electron
+> Electron学习项目
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+查看二次元图片APP  
+打开后随机加载一张色图
